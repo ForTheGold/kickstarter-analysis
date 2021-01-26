@@ -26,7 +26,7 @@ No project is without its challenges.  We have also outlined a few of the challe
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes Based on Launch Date](https://github.com/ForTheGold/kickstarter-analysis?branch=main&filepath=Resources%2FTheater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](https://github.com/ForTheGold/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 The graph tells the story of the data quite clearly.  The most successful Kickstarter theatre campaigns are launched in the summer.  The best month to launch is May and June is also quite good as both have very high success rates.
 
