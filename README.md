@@ -36,7 +36,7 @@ It would appear that there are more campaigns launched overall in summer though 
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes Based on Goals](https://github.com/ForTheGold/kickstarter-analysis?branch=main&filepath=Resources%2FOutcomes_vs_Goals.png)
+![Outcomes Based on Goals](https://github.com/ForTheGold/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 Again our graph gives us a clear picture as to what is happening with the data.  It appears that there are a few sweet spots with regards to campaign goals.
 
